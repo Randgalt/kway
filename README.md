@@ -1,3 +1,6 @@
+K-Way Merge
+===========
+
 Hey, this isn't my idea but it's cool.
 
 An implementation of "k-Way Merging" as described in "Fundamentals of Data Structures" by Horowitz/Sahni.
